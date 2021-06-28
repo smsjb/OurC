@@ -5,5 +5,15 @@
 1. C語法檢查
 2. printer
 
+#輸入範例
+1
+int x ;
+x=10;
+cout << x ;
+Done(); int x ; cout << y ;
+x = 10 ;
+^Z
+
+
 # 完成時間
 2020/7/3
